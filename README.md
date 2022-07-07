@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi, I'm Antonio
+
+- 🌱 I like to study machine learning, natural language processing and data visualization.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 <!--
-**ajdavidl/ajdavidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
