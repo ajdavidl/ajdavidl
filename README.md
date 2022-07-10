@@ -9,11 +9,24 @@
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
+
 <div align="left">
   <a href="https://github.com/ajdavidl">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajdavidl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdavidl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajdavidl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+<!--
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajdavidl.ajdavidl)
+-->
+
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajdavidl&theme=dark)](https://git.io/streak-stats)
+-->
 
 <!--
 Here are some ideas to get you started:
