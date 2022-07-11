@@ -22,6 +22,7 @@
 
 <!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajdavidl.ajdavidl)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ajdavidl)
 -->
 
 <!--
