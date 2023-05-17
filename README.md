@@ -3,10 +3,13 @@
 - I like to study machine learning, natural language processing and data visualization.
 - I'm interested in Linux and self-hosting open source projects.
 
+<!--
 <h3> 🛠 &nbsp;Tech Stack</h3>
+-->
 
 ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![julia](https://img.shields.io/badge/Julia-9558B2?style=flat&labelColor=389827&logoColor=4163d9&logo=julia)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
