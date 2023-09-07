@@ -22,19 +22,27 @@
 <div align="left">
   <a href="https://github.com/ajdavidl">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajdavidl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdavidl&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdavidl&layout=compact&langs_count=8&theme=monokai"/>
 </div>
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajdavidl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--->
+<br>
+
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajdavidl&theme=darcula) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajdavidl&theme=darcula) 
 
 <!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajdavidl&theme=darcula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajdavidl&theme=darcula&utcOffset=8) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajdavidl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajdavidl.ajdavidl)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ajdavidl)
--->
 
-<!--
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajdavidl&theme=dark)](https://git.io/streak-stats)
 -->
 
