@@ -1,9 +1,10 @@
+<!--
 ### Hi, I'm Antonio
 
 - I like to study machine learning, natural language processing and data visualization.
 - I'm interested in Linux and self-hosting open source projects.
 
-<!--
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 -->
 
